@@ -1,17 +1,17 @@
- MLnow() 2.0
-👩🏻‍💻 This repository is a code archive for the ML.now() course codes [Version 2.0] created by Harshitha.H.N
+# MLnow_2.0
+This is a repository for ML.now() course.
 
-  
+### Setup & Installation
 
-Setup & Installation
-$ git clone https://github.com/Harshithamanjula/MLnow_2.0/blob/main/README.md.git
+```
+$ git clone https://github.com/Harshithamanjula.git
 $ cd MLnow_2.0
+```
 
-To Contribute
+### To Contribute
 
-Please create a pull request so the main code is still up and running
-
-$ git add .
+- Please [create a pull request](https://github.com/ranu-agrawal/MLnow_2.0/pulls) so the main code is still up and running
+ $ git add .
 
 $ git commit -m "<set-your-commit>"
  
