@@ -25,4 +25,6 @@ Reach out
 
  harshithahyath@gmail.com  : Email
  
-https://twitter.com/Harshit64011945: Twitter LinkedIn
+https://twitter.com/Harshit64011945 : Twitter
+                             
+harshithahyath@gmail.com           : LinkedIn
