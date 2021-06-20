@@ -22,5 +22,7 @@ $ git push -u origin <branch-name>
 For more features or in case of any bugs, raise an issue.
  
 Reach out
+
+ harshithahyath@gmail.com  : Email
  
 https://twitter.com/Harshit64011945: Twitter LinkedIn
