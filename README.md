@@ -27,4 +27,4 @@ Reach out
  
 https://twitter.com/Harshit64011945 : Twitter
                              
-harshithahyath@gmail.com           : LinkedIn
+https://www.linkedin.com/in/harshitha-h-n-78713b1a3/  : LinkedIn
